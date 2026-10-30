@@ -1,0 +1,3 @@
+Transaction: A1001 | Krisha | Rs.7000.0
+Transaction: A1002 | Dhriti | Rs.2500.0
+Transfer: A1001 to A1002
